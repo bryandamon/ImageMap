@@ -1,8 +1,3 @@
-/*
-Image Map Highlight
-*/
-
-
 $(document).ready(function() {
 
     var
